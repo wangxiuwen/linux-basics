@@ -6,8 +6,8 @@ google_analytics: # UA-XXXXX-Y
 
 comments:
   disqus:
-    enable: false
-    shortname: # your disqus shortname
+    enable: true
+    shortname: wangxiuwenwen
   gitalk:
     enable: false
     githubID: # your github id
