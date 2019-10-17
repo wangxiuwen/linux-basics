@@ -91,4 +91,4 @@ theme: book
 deploy:
   type: git
   repo: git@github.com:wangxiuwen/linux-basic.git
-  branch: master
+  branch: gh-pages
