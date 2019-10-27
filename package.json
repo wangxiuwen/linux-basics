@@ -1,7 +1,6 @@
 {
-  "name": "hexo-site",
+  "name": "linux-basics",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
     "build": "npx gitbook build",
     "serve": "gitbook serve"
