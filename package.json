@@ -1,0 +1,12 @@
+{
+  "name": "linux-basics",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "npx gitbook build",
+    "serve": "gitbook serve"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
